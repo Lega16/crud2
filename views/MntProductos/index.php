@@ -39,7 +39,7 @@
     <link href="../../public/lib/jquery-switchbutton/jquery.switchButton.css" rel="stylesheet">
 
     <link href="../../public/lib/datatables/jquery.dataTables.css" rel="stylesheet">
-    <link href="../../public/datatables/buttons.dataTables.min.css" rel="stylesheet">//importante genera excel
+    <link href="../../public/datatables/buttons.dataTables.min.css" rel="stylesheet">//importante genera excel con la libreria datables de public
 
     <!-- Bracket CSS -->
     <link rel="stylesheet" href="../../public/css/bracket.css">
